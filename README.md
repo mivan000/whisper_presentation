@@ -8,6 +8,6 @@ Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours
 
 [Presentation on YouTube](https://youtu.be/gwzqALl7uuY)
 
-[OpenAi Whisper Blog](https://openai.com/research/whisper)
+[OpenAI Whisper Blog](https://openai.com/research/whisper)
 
 [Original Paper](https://arxiv.org/abs/2212.04356)
